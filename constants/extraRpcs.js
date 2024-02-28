@@ -3590,7 +3590,6 @@ export const extraRpcs = {
         trackingDetails: privacyStatement.tenderly,
       },
       {
-        url: "https://gateway.tenderly.co/public/sepolia",
         tracking: "yes",
         trackingDetails: privacyStatement.tenderly,
       },
